@@ -1,8 +1,10 @@
-### Hi there 👋
+### Tikhon Kozlov
 
-- 🔭 I’m currently working on "LEGOcy - API-based web platform for selling LEGO sets".
-- 🌱 I’m currently learning Django & Go
-- 📫 How to reach me: tkozlov2003@gmail.com
-- ⚡ Fun fact: LEGO Batman collector
+### 🧰 Languages and Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
 
 
