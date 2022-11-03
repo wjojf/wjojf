@@ -1,6 +1,6 @@
 # Tikhon Kozlov
 <div align='center'>
-  <p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework<p>
+  <p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework</p>
   [![Gmail Badge](https://img.shields.io/badge/-tkozlov2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
   
 </div>
