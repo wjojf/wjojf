@@ -1,7 +1,10 @@
 # Tikhon Kozlov
-
-<p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework<p>
-
+<div align='center'>
+  <p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework<p>
+  <a href="https://www.linkedin.com/in/tikhon-kozlov-2a5134252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg? &style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  [![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:tkozlov2003@gmail.com)
+</div>
+  
 ## I'm currently working on
   <p>LEGOcy - expired lego sets marketplace<p>
 
@@ -46,8 +49,7 @@
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-<a href="https://www.linkedin.com/in/tikhon-kozlov-2a5134252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:tkozlov2003@gmail.com)
+
 
 
 </div>
