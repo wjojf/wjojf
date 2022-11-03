@@ -1,7 +1,7 @@
 # Tikhon Kozlov
 <div align='center'>
   <p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework</p>
-  <a href="[https://www.linkedin.com/in/absphreak](https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/tikhon-kozlov-2a5134252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   
 </div>
   
