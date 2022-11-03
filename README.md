@@ -1,6 +1,6 @@
 # Tikhon Kozlov
 
-### I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework
+<p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework<p>
 
 ## 🕹 Languages and Tools
 
