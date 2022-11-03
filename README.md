@@ -2,7 +2,7 @@
 <div align='center'>
   <p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework</p>
   <a href="https://www.linkedin.com/in/tikhon-kozlov-2a5134252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkozlov2003@gmail.com)](mailto:tkozlov2003@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-tkozlov2003-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tkozlov2003@gmail.com)](mailto:tkozlov2003@gmail.com)
   
 </div>
   
