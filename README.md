@@ -1,7 +1,7 @@
 # Tikhon Kozlov
 <div align='center'>
   <p>I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework</p>
-[![Gmail Badge](https://img.shields.io/badge/-tkozlov2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:tkozlov2003@gmail.com)
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=tkozlov2003@gmail.com&logoColor=white
   
 </div>
   
