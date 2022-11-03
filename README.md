@@ -1,7 +1,7 @@
 # Tikhon Kozlov
 I'm a Junior python devloper working on different web-based & data-driven projects. My main tool is django/django-rest-framework</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-wjojf?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)](https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)
+[![Linkedin Badge](https://img.shields.io/badge/-tikhon-kozlov?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)](https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)
 
 [![Gmail Badge](https://img.shields.io/badge/-tkozlov2003-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tkozlov2003@gmail.com)](mailto:tkozlov2003@gmail.com)
  
