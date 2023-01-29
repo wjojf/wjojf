@@ -1,6 +1,6 @@
 # Tikhon Kozlov
 
-I'm a Python/Go devloper working on different web-based & data-driven projects. My main tool is Django/Django REST Framework</p>
+I'm a Python/Go devloper working on different web-based & data-driven projects.
 <div align="center">
   
 [![Linkedin Badge](https://img.shields.io/badge/-tikhon-kozlov?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)](https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)
