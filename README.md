@@ -9,6 +9,9 @@ I'm a Python/Go devloper working on different web-based & data-driven projects.
 
 </div> 
   
+# I'm currently employed as
+  <h3> Python Developer at Axevil Capital</h3>
+
 # I'm currently working on
   <h3>LEGOcy - expired lego sets marketplace</h3>
 
