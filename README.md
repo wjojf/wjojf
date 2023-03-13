@@ -1,19 +1,13 @@
 # Tikhon Kozlov
 
 I'm a Python/Go devloper working on different web-based & data-driven projects.
-<div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-tikhon-kozlov?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)](https://www.linkedin.com/in/tikhon-kozlov-2a5134252/)
-
-[![Gmail Badge](https://img.shields.io/badge/-tkozlov2003-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tkozlov2003@gmail.com)](mailto:tkozlov2003@gmail.com)
-
-</div> 
-  
-# I'm currently employed as
-  <h3> Python Developer at Axevil Capital</h3>
 
 # I'm currently working on
-  <h3>LEGOcy - expired lego sets marketplace</h3>
+  <ul>
+  <li>Axevil Mobile App and Admin panel</li>
+  <li>LEGOcy - expired lego sets marketplace</li>
+  </ul>
+
 
 
 # 🕹 Languages and Tools
