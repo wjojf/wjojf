@@ -1,11 +1,10 @@
 # Tikhon Kozlov
 
-I'm a Python/Go devloper working on different web-based & data-driven projects.
+Lead Python Developer at Axevil Capital
 
 # I'm currently working on
   <ul>
-  <li>Axevil Mobile App and Admin panel</li>
-  <li>LEGOcy - expired lego sets marketplace</li>
+    <li>LEGOcy - expired lego sets marketplace</li>
   </ul>
 
 
