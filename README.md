@@ -2,7 +2,7 @@
 
 ### 👨‍💻 I am currently employed as 
   <ul>
-    <li>Lead Python Developer at Axevil Capital</li>
+    <li>Lead Backend Developer at Axevil Capital</li>
   </ul>
 
 ### 🥷 I'm currently working on
