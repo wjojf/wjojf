@@ -7,7 +7,7 @@
 
 ### 🥷 I'm currently working on
   <ul>
-    <li>LEGOcy - expired lego sets marketplace</li>
+    <li>LEGOcy - a hub for LEGO lovers and collectors</li>
   </ul>
 
 ### 🕹 Languages
