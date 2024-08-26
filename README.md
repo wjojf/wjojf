@@ -7,7 +7,7 @@
 
 ### 🥷 I'm currently working on
   <ul>
-    <li>LEGOcy - a hub for LEGO lovers and collectors</li>
+    <li>LEGOcy - LEGO Investment Platform</li>
   </ul>
 
 ### 🕹 Languages
