@@ -7,7 +7,7 @@
 
 ### 🥷 I'm currently working on
   <ul>
-    <li>LEGOcy - LEGO Investment Platform</li>
+    <li>dothub - Brand New Gaming Hub In Antwerpen</li>
   </ul>
 
 ### 🕹 Languages
